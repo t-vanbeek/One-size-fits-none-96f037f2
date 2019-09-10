@@ -1,0 +1,17 @@
+body {background-color:limegreen}
+
+h1 {color: red;}
+h2 {color: orangered}
+ul {color: blueviolet}
+ol {color: blueviolet}
+:any-link {color: blue}
+
+
+font-size
+h1 {size: 80}
+h2 {size: 40}
+ul {size: 30}
+ol {size: 30}
+
+img {width: auto}
+img {max-width: 125px;}
